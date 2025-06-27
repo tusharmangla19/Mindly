@@ -195,7 +195,7 @@ export default async function LandingPage() {
                 AI-Powered Writing Suggestions
               </h3>
               <p className="text-lg text-orange-700">
-                Stuck on what to write? Get context-aware, personalized suggestions from Gemini AI to keep your journaling flowing and never face writer's block again.
+                Stuck on what to write? Get context-aware, personalized suggestions from Gemini AI to keep your journaling flowing and never face writer&apos;s block again.
               </p>
               <ul className="space-y-3">
                 <li className="flex items-center gap-2">
