@@ -77,7 +77,7 @@ export default async function LandingPage() {
                 <div className="flex items-center gap-2">
                   <Calendar className="h-5 w-5 text-orange-600" />
                   <span className="text-orange-900 dark:text-orange-200 font-medium">
-                    Today&rsquo;s Entry
+                   Today&apos;s Entry
                   </span>
                 </div>
                 <div className="flex gap-2">
